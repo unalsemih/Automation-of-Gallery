@@ -5,10 +5,10 @@
 
 Bu projede
 
--Araç Ekleme,
--Araç Silme,
--Araçları Listeleme,
--Araçlar İçinde Arama Yapma(Marka, Model, Renk, Yıl)
--Araç Düzenleme,
--Araçları Sıralama(Kilometre, Yıl, Fiyat)
+- Araç Ekleme,
+- Araç Silme,
+- Araçları Listeleme,
+- Araçlar İçinde Arama Yapma(Marka, Model, Renk, Yıl)
+- Araç Düzenleme,
+- Araçları Sıralama(Kilometre, Yıl, Fiyat)
 gibi özellikler bulunmaktadır.
