@@ -13,4 +13,14 @@ Bu projede
 - Araçları Sıralama(Kilometre, Yıl, Fiyat)
 gibi özellikler bulunmaktadır.
 ## Listeleme
+Araçlar sayfalar halinde listelenmektedir
 ![](https://github.com/unalsemih/repo-images/blob/master/listele.png?raw=true) 
+
+## Arama Yapma
+Araçlar arasında istenilen kritere göre arama işlemi yapılabilmektedir.
+![](https://github.com/unalsemih/repo-images/blob/master/arama.png?raw=true)
+
+## Araçları Sıralama
+Araçları istenilen kritere göre büyükten küçüğe ya da küçükten büyüğe sıralamaktadır
+![](https://github.com/unalsemih/repo-images/blob/master/siralama.png?raw=true)
+
