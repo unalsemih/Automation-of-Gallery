@@ -20,7 +20,7 @@ Araçlar sayfalar halinde listelenmektedir
 Araçlar arasında istenilen kritere göre arama işlemi yapılabilmektedir.
 ![](https://github.com/unalsemih/repo-images/blob/master/arama.png?raw=true)
 
-Yukarıdaki Resimde yapılan aramanın çıktısı (# Rengi siyah olan araçlar #)
+Yukarıdaki Resimde yapılan aramanın çıktısı (** Rengi siyah olan araçlar **)
 ![](https://github.com/unalsemih/repo-images/blob/master/aramSonuc.png?raw=true)
 
 ## Araçları Sıralama
