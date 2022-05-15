@@ -27,3 +27,4 @@ Yukarıdaki Resimde yapılan aramanın çıktısı ( **Rengi siyah olan araçlar
 Araçları istenilen kritere göre büyükten küçüğe ya da küçükten büyüğe sıralamaktadır
 ![](https://github.com/unalsemih/repo-images/blob/master/siralama.png?raw=true)
 
+Video Linki: https://www.youtube.com/watch?v=zOwBLXOcv_k&t=60s&ab_channel=Semih%C3%9Cnal
